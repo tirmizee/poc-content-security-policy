@@ -1,0 +1,1 @@
+# poc-content-security-policy
